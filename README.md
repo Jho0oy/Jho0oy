@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- HTML and CSS Developer<br>- java script knowledge<br>- Via contact at @jhooy_felipe <br>- Studying computer science at ifma</p>
+<p align="left">- HTML and CSS Developer<br>- java script knowledge<br>- Studying computer science at ifma</p>
 
 ###
 

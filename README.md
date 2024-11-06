@@ -1,3 +1,11 @@
+<h2 align="center">Olá! Sejam muito bem vindos :)</h2>
+
+###
+
+<p align="left">Olá, tenho 17 anos e atualmente estou cursando o ensino médio no Instituto Federal do Maranhão. Recentemente estou me fromando no ensino médio, no curso de Informática pelo Instituto Federal, que foi onde eu tive conhecimento da programação, isso me interessou bastante, e com isso eu passei a estudar e me aprofundar na área de tecnologia.</p>
+
+###
+
 <h2 align="center">About me</h2>
 
 ###
@@ -56,5 +64,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Jho0oy/Jho0oy/output/snake.svg" alt="Snake animation" />
 
 ###

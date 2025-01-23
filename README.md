@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, tenho 17 anos e atualmente estou cursando o ensino médio no Instituto Federal do Maranhão. Recentemente estou me fromando no ensino médio, no curso de Informática pelo Instituto Federal, que foi onde eu tive conhecimento da programação, isso me interessou bastante, e com isso eu passei a estudar e me aprofundar na área de tecnologia.</p>
+<p align="left">Sou estudante com 3 anos de formação no IFMA, no curso de Informática, onde adquiri conhecimentos sólidos em desenvolvimento de software, redes de computadores e manutenção de sistemas. Durante o curso, desenvolvi habilidades práticas em programação, análise de sistemas e suporte técnico, além de aprimorar a capacidade de trabalhar em equipe e resolver problemas de forma criativa. Busco oportunidades para aplicar meus conhecimentos em ambientes dinâmicos e desafiadores, visando sempre o aprendizado contínuo e o crescimento profissional.</p>
 
 ###
 
